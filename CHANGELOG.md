@@ -1,6 +1,6 @@
-<a name="3.0.10"></a>
+<a name="3.0.11"></a>
 
-# [3.0.10](https://github.com/nicolasbeauvais/vue-social-sharing/compare/3.0.8...3.0.9) (2025-04-15)
+# [3.0.11](https://github.com/areeb111/vue-social-sharing/compare/3.0.8...3.0.11) (2025-04-15)
 
 - Adding BlueSky Network / Updating Font Awesome
 
